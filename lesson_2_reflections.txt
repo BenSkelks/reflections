@@ -28,6 +28,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  Combines all the commits of both branches. The diagram clearlt shows what is
+  being merged,
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
