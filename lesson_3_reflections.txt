@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It distinguishes between a specific branch and the one you want to add something
+    to. Allows others to work freely on the main branch.
